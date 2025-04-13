@@ -22,7 +22,7 @@ class Funcionario
     {
         Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"Cargo: {Cargo}");
-        Console.WriteLine("Salário: R$ " + CalcularSalario().ToString("F2")
+        Console.WriteLine("Salario: R$ " + CalcularSalario().ToString("F2")
 );
     }
 }

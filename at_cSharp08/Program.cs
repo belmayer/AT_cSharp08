@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        Funcionario funcionario = new Funcionario("isabella", "dev", 25000);
+        Funcionario funcionario = new Funcionario("isabella", "eng de software", 25000);
         funcionario.MostrarInfo();
 
 
